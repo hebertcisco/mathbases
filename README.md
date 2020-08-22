@@ -11,7 +11,7 @@ parseInt(myValue, baseFrom).toString(baseTo)
 ## Install
 
 ```
-$ npm install mathBases --save
+$ npm install mathbases --save
 ```
 
 Run the specs
