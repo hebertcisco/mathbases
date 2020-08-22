@@ -25,7 +25,7 @@ $ npm test
 ##### Using quick methods
 
 ```js
-const base = require("mathBases");
+const base = require("mathbases");
 
 base.dec2hex("42"); // '2a'
 ```
@@ -33,7 +33,7 @@ base.dec2hex("42"); // '2a'
 ##### Using the master converter
 
 ```js
-const { allYour } = require("mathBases");
+const { allYour } = require("mathbases");
 
 allYour("decimal").areBelongTo("binary")(50); // '110010'
 ```
