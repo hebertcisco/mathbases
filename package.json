@@ -1,6 +1,6 @@
 {
   "name": "mathbases",
-  "version": "1.1.5",
+  "version": "1.2.0",
   "description": "All Your Base Are Belong To Us",
   "main": "index.js",
   "repository": {
@@ -24,7 +24,6 @@
     "dec2hex",
     "bin2dec",
     "dec2bin",
-    "aliencreations",
     "hebertcisco"
   ],
   "author": "Hebert Cisco",
