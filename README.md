@@ -2,7 +2,7 @@
 
 **All Your Base Are Belong To Us**
 
-[![Build Status](https://travis-ci.org/hebertcisco/mathbases.svg?branch=master)](https://travis-ci.org/hebertcisco/mathbases) [![npm version](http://img.shields.io/npm/v/mathbases.svg)](https://npmjs.org/package/mathbases) [![Dependency Status](https://david-dm.org/hebertcisco/mathbases.svg)](https://david-dm.org/hebertcisco/mathbases) 
+[![Build Status](https://travis-ci.org/hebertcisco/mathbases.svg?branch=master)](https://travis-ci.org/hebertcisco/mathbases) [![npm version](http://img.shields.io/npm/v/mathbases.svg)](https://npmjs.org/package/mathbases)
 
 ```
 parseInt(myValue, baseFrom).toString(baseTo)
