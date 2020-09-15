@@ -1,6 +1,6 @@
 {
   "name": "mathbases",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "All Your Base Are Belong To Us",
   "main": "index.js",
   "repository": {
@@ -8,6 +8,10 @@
     "url": "https://github.com/hebertcisco/mathbases.git"
   },
   "scripts": {
+    "build": "webpack --config dist/main.js",
+    "clean": "rm dist/bundle.js",
+    "build-dev": "webpack -d --mode development",
+    "build-prod": "webpack -p --mode production",
     "test": "./node_modules/.bin/istanbul cover -x '**/spec/_helpers/**/*' ./node_modules/.bin/jasmine"
   },
   "keywords": [
@@ -31,7 +35,13 @@
   "devDependencies": {
     "coveralls": "^3.1.0",
     "istanbul": "^0.4.5",
-    "jasmine": "^2.5.3"
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "babel-loader": "^8.1.0",
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
+    "jasmine": "^3.6.1",
+    "prettier": "^2.1.1"
   },
   "dependencies": {}
 }
