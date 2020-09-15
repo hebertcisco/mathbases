@@ -1,0 +1,15 @@
+{
+  "name": "mathbases",
+  "version": "1.2.3",
+  "babel": {
+    "presets": ["@babel/preset-flow"],
+    "plugins": [
+      [
+        "@babel/plugin-transform-modules-commonjs",
+        {
+          "allowTopLevelThis": true
+        }
+      ]
+    ]
+  }
+}
