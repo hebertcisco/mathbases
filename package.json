@@ -9,7 +9,7 @@
   },
   "scripts": {
     "build": "webpack --config dist/main.js",
-    "clean": "rm dist/bundle.js",
+    "clean": "rm -rf dist",
     "build-dev": "webpack -d --mode development",
     "build-prod": "webpack -p --mode production",
     "test": "./node_modules/.bin/istanbul cover -x '**/spec/_helpers/**/*' ./node_modules/.bin/jasmine"
