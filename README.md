@@ -21,8 +21,36 @@ npm install mathbases --save
 
 ## Usage
 
+### Decimal to Binary
+
 ```sh
+const { allYour } = require("mathbases");
+
 allYour("decimal").areBelongTo("binary")(50); // '110010'
+```
+
+### Binary to Decimal
+
+```sh
+const { allYour } = require("mathbases");
+
+allYour("binary").areBelongTo("decimal")(110010); // '50'
+```
+
+### Decimal to hexadecimal
+
+```sh
+const { allYour } = require("mathbases");
+
+allYour("decimal").areBelongTo("hexadecimal")(110010); // '50'
+```
+
+### Hexadecimal to decimal
+
+```sh
+const { allYour } = require("mathbases");
+
+allYour("hexadecimal").areBelongTo("decimal")(110010); // '50'
 ```
 
 ## Run tests
