@@ -1,55 +1,55 @@
-# 🔢 Math Bases
+# Welcome to 🔢 Math Bases 👋
 
-**All Your Base Are Belong To Us**
+[![Build Status](https://travis-ci.org/hebertcisco/mathbases.svg?branch=master)](https://travis-ci.org/hebertcisco/mathbases)
+[![Version](https://img.shields.io/npm/v/mathbases.svg)](https://www.npmjs.com/package/mathbases)
+[![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/hebertcisco/mathbases#readme)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/hebertcisco/mathbases/graphs/commit-activity)
+[![License: MIT](https://img.shields.io/github/license/hebertcisco/mathbases)](https://github.com/hebertcisco/mathbases/blob/master/LICENSE)
+[![Twitter: hebertcisco](https://img.shields.io/twitter/follow/hebertcisco.svg?style=social)](https://twitter.com/hebertcisco)
 
-[![Build Status](https://travis-ci.org/hebertcisco/mathbases.svg?branch=master)](https://travis-ci.org/hebertcisco/mathbases) [![npm version](http://img.shields.io/npm/v/mathbases.svg)](https://npmjs.org/package/mathbases)
+> All Your Base Are Belong To Us
 
-```
-parseInt(myValue, baseFrom).toString(baseTo)
-```
+### 🏠 [Homepage](https://www.npmjs.com/package/mathbases)
+
+### ✨ [Demo](https://konvertilo.vercel.app)
 
 ## Install
 
-```
-$ npm install mathbases --save
-```
-
-Run the specs
-
-```
-$ npm test
+```sh
+npm install mathbases --save
 ```
 
 ## Usage
 
-##### Using quick methods
-
-```js
-const base = require("mathbases");
-
-base.dec2hex("42"); // '2a'
-```
-
-##### Using the master converter
-
-```js
-const { allYour } = require("mathbases");
-
+```sh
 allYour("decimal").areBelongTo("binary")(50); // '110010'
 ```
 
-## Supported Bases
+## Run tests
 
-- [Binary](#Binary)
-- [Ternary](#Ternary)
-- [Quaternary](#Quaternary)
-- [Quinary](#Quinary)
-- [Senary](#Senary)
-- [Septenary](#Septenary)
-- [Octal](#Octal)
-- [Nonary](#Nonary)
-- [Decimal](#Decimal)
-- [Undenary](#Undenary)
-- [Duodecimal](#Duodecimal)
-- [Hexadecimal](#Hexadecimal)
-- [Vigesimal](#Vigesimal)
+```sh
+npm run test
+```
+
+## Author
+
+👤 **Hebert Cisco**
+
+- Website: [https://hebertbarros.me/](https://hebertbarros.now.sh/)
+- Twitter: [@hebertcisco](https://twitter.com/hebertcisco)
+- Github: [@hebertcisco](https://github.com/hebertcisco)
+- LinkedIn: [@hebert-f-barros](https://linkedin.com/in/hebert-f-barros)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+[![support us](https://img.shields.io/badge/become-a patreon%20us-orange.svg?cacheSeconds=2592000)](https://www.patreon.com/hebertfbarros)
+
+## 📝 License
+
+Copyright © 2020 [Hebert Cisco](https://github.com/hebertcisco).
+
+This project is [MIT](https://github.com/hebertcisco/mathbases/blob/master/LICENSE) licensed.
+
+---
