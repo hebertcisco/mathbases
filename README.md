@@ -42,7 +42,7 @@ allYour("binary").areBelongTo("decimal")(110010); // '50'
 ```sh
 const { allYour } = require("mathbases");
 
-allYour("decimal").areBelongTo("hexadecimal")(110010); // '50'
+allYour("decimal").areBelongTo("hexadecimal")(50); // '32'
 ```
 
 ### Hexadecimal to decimal
@@ -50,7 +50,7 @@ allYour("decimal").areBelongTo("hexadecimal")(110010); // '50'
 ```sh
 const { allYour } = require("mathbases");
 
-allYour("hexadecimal").areBelongTo("decimal")(110010); // '50'
+allYour("hexadecimal").areBelongTo("decimal")(32); // '50'
 ```
 
 ## Run tests
