@@ -841,10 +841,30 @@
   resolved "https://registry.yarnpkg.com/@nodelib/fs.stat/-/fs.stat-1.1.3.tgz#2b5a3ab3f918cca48a8c754c08168e3f03eba61b"
   integrity sha512-shAmDyaQC4H92APFoIaVDHCx5bStIocgvbwQyxPRrbUY20V1EYTbSDchWbuwlMG3V17cprZhA6+78JfB+3DTPw==
 
+"@types/browserify@^12.0.36":
+  version "12.0.36"
+  resolved "https://registry.yarnpkg.com/@types/browserify/-/browserify-12.0.36.tgz#a7b662550bd4102b38ba83ef4ad6db871ea91331"
+  integrity sha512-hYXvPod5upkYTC7auziOATFsu/0MGxozbzNI80sZV044JTF7UtstHeNOM52b+bg7/taZ3fheK7oeb+jpm4C0/w==
+  dependencies:
+    "@types/insert-module-globals" "*"
+    "@types/node" "*"
+
+"@types/insert-module-globals@*":
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/@types/insert-module-globals/-/insert-module-globals-7.0.1.tgz#234f9263f6b315088287e3597d7e98033804a031"
+  integrity sha512-qtSfo/jdYHO4jNO6QCp4CwR/TPrvR39Yan5K4nPU1iCmxcnTWiERKDXcvFGuXEmfpjrHeOCvrZPa0UrUsy+mvA==
+  dependencies:
+    "@types/node" "*"
+
 "@types/json-schema@^7.0.5":
   version "7.0.6"
   resolved "https://registry.yarnpkg.com/@types/json-schema/-/json-schema-7.0.6.tgz#f4c7ec43e81b319a9815115031709f26987891f0"
   integrity sha512-3c+yGKvVP5Y9TYBEibGNR+kLtijnj7mYrXRg+WpFb2X9xm04g/DXYkfg4hmzJQosc9snFNUPkbYIhu+KAm6jJw==
+
+"@types/node@*":
+  version "14.11.1"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.11.1.tgz#56af902ad157e763f9ba63d671c39cda3193c835"
+  integrity sha512-oTQgnd0hblfLsJ6BvJzzSL+Inogp3lq9fGgqRkMB/ziKMgEUaFl801OncOzUmalfzt14N0oPHMK47ipl+wbTIw==
 
 "@webassemblyjs/ast@1.9.0":
   version "1.9.0"
@@ -4128,6 +4148,11 @@ typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
+
+typescript@^4.0.2:
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.0.2.tgz#7ea7c88777c723c681e33bf7988be5d008d05ac2"
+  integrity sha512-e4ERvRV2wb+rRZ/IQeb3jm2VxBsirQLpQhdxplZ2MEzGvDkkMmPglecnNDfSUBivMjP93vRbngYYDQqQ/78bcQ==
 
 uglify-js@^3.1.4:
   version "3.10.1"
