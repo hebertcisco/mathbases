@@ -12,7 +12,7 @@ const BASE_MAP = [
   ["dec", "decimal", 10, "50"],
   ["und", "undenary", 11, "46"],
   ["duo", "duodecimal", 12, "42"],
-  ["hex", "hexidecimal", 16, "32"],
+  ["hex", "hexadecimal", 16, "32"],
   ["vig", "vigesimal", 20, "2a"],
 ];
 
