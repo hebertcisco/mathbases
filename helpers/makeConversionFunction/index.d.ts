@@ -1,8 +1,8 @@
 "use strict";
 
-const getRadixFromKey = require("../getRadixFromKey"),
-  head = require("../head"),
-  last = require("../last");
+const getRadixFromKey = require("../getRadixFromKey/index.d.ts"),
+  head = require("../head/index.d.ts"),
+  last = require("../last/index.d.ts");
 
 module.exports = (pair: any) => {
   const baseFrom = getRadixFromKey(head(pair)),

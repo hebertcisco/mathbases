@@ -1,7 +1,7 @@
 "use strict";
 
-const head = require("../head"),
-  ensureUniquePair = require("../ensureUniquePair");
+const head = require("../head/index.d.ts"),
+  ensureUniquePair = require("../ensureUniquePair/index.d.ts");
 
 module.exports = (xs: any, ys: any) => {
   let a = [];

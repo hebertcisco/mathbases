@@ -1,4 +1,5 @@
 "use strict";
+const mathbases = require("./index");
 
 const { BASE_MAP } = require("./constants");
 

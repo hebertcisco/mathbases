@@ -1,16 +1,16 @@
 "use strict";
 
-const mathBases = require("../index");
+const mathBases = require("../index.d.ts");
 
-const head = require("../helpers/head"),
-  last = require("../helpers/last"),
-  find = require("../helpers/find");
+const head = require("../helpers/head/index.d.ts"),
+  last = require("../helpers/last/index.d.ts"),
+  find = require("../helpers/find/index.d.ts");
 
 const {
   BASE_MAP,
   BASE_MAP_INDEX_NAME: METHOD,
   BASE_MAP_INDEX_COMPARATOR: COMPARATOR,
-} = require("../constants");
+} = require("../constans/index.d.ts");
 
 const isQuickMethod = (s: any) => s !== "allYour";
 

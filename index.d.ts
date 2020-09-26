@@ -1,11 +1,11 @@
 "use strict";
 
-const { BASE_MAP } = require("./constants");
+const { BASE_MAP } = require("./constants/index.d.ts");
 
-const head = require("./helpers/head"),
-  xProd = require("./helpers/xProd"),
-  getRadixFromKey = require("./helpers/getRadixFromKey"),
-  makeConversionFunction = require("./helpers//makeConversionFunction");
+const head = require("./helpers/head/index.d.ts"),
+  xProd = require("./helpers/xProd/index.d.ts"),
+  getRadixFromKey = require("./helpers/getRadixFromKey/index.d.ts"),
+  makeConversionFunction = require("./helpers//makeConversionFunction/index.d.ts");
 
 const allYour = (baseFrom: any) => ({
   areBelongTo: (baseTo: any) => (value: any) => {
