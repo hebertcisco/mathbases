@@ -1,0 +1,9 @@
+lib
+src
+.gitignore
+tsconfig.json
+typings.json
+.idea
+.DS_Store
+node_modules
+coverage
