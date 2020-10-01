@@ -1,6 +1,6 @@
 {
   "name": "mathbases",
-  "main": "./lib/mathbases.d.ts",
+  "main": "./index.d.ts",
   "homepage": "https://mp.weixin.qq.com/wiki/7/aaa137b55fb2e0456bf8dd9148dd613f.html",
   "global": true,
   "version": "1.2.0"
