@@ -7,6 +7,10 @@
 [![License: MIT](https://img.shields.io/github/license/hebertcisco/mathbases)](https://github.com/hebertcisco/mathbases/blob/master/LICENSE)
 [![Twitter: hebertcisco](https://img.shields.io/twitter/follow/hebertcisco.svg?style=social)](https://twitter.com/hebertcisco)
 
+
+<p align="center">Gostou o projeto? Por favor considere <a href="https://github.com/hebertcisco/hebertcisco/blob/main/.github/patreon.md">ser um apoiador</a> e receba brindes exclusivos!
+ </p>
+ 
 > All Your Base Are Belong To Us
 
 ### 🏠 [Homepage](https://www.npmjs.com/package/mathbases)
