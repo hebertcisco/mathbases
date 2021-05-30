@@ -87,11 +87,9 @@ npm run test
 
 Give a ⭐️ if this project helped you!
 
-[![support us](https://img.shields.io/badge/become-a patreon%20us-orange.svg?cacheSeconds=2592000)](https://www.patreon.com/hebertfbarros)
-
 ## 📝 License
 
-Copyright © 2020 [Hebert Cisco](https://github.com/hebertcisco).
+Copyright © 2021 [Hebert Cisco](https://github.com/hebertcisco).
 
 This project is [MIT](https://github.com/hebertcisco/mathbases/blob/master/LICENSE) licensed.
 
