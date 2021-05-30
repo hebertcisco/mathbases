@@ -1,21 +1,32 @@
-# Welcome to 🔢 Math Bases 👋
+<p align="center">
+ <img width="100px" src="https://raw.githubusercontent.com/hebertcisco/mathbases/master/.github/images/favicon512x512-mathbases.png" align="center" alt=":package: mathbases" />
+ <h2 align="center">:package: mathbases</h2>
+ <p align="center">All Your Base Are Belong To Us
+</p>
+</p>
 
-[![Build Status](https://travis-ci.org/hebertcisco/mathbases.svg?branch=master)](https://travis-ci.org/hebertcisco/mathbases)
-[![Version](https://img.shields.io/npm/v/mathbases.svg)](https://www.npmjs.com/package/mathbases)
-[![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/hebertcisco/mathbases#readme)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/hebertcisco/mathbases/graphs/commit-activity)
-[![License: MIT](https://img.shields.io/github/license/hebertcisco/mathbases)](https://github.com/hebertcisco/mathbases/blob/master/LICENSE)
-[![Twitter: hebertcisco](https://img.shields.io/twitter/follow/hebertcisco.svg?style=social)](https://twitter.com/hebertcisco)
+  <p align="center">
+    <a href="https://github.com/hebertcisco/mathbases/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/hebertcisco/mathbases?style=flat&color=336791" />
+    </a>
+    <a href="https://github.com/hebertcisco/mathbases/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/hebertcisco/mathbases?style=flat&color=336791" />
+    </a>
+     <a href="https://github.com/hebertcisco/mathbases">
+      <img alt="GitHub Downloads" src="https://img.shields.io/npm/dw/mathbases?style=flat&color=336791" />
+    </a>
+    <a href="https://github.com/hebertcisco/mathbases">
+      <img alt="GitHub Total Downloads" src="https://img.shields.io/npm/dt/mathbases?color=336791&label=Total%20downloads" />
+    </a>
+    <br />
+    <br />
+  <a href="https://github.com/hebertcisco/musiko-app/issues/new/choose">Report Bug</a>
+  <a href="https://github.com/hebertcisco/musiko-app/issues/new/choose">Request Feature</a>
+  </p>
 
-
-<p align="center">Gostou o projeto? Por favor considere <a href="https://github.com/hebertcisco/hebertcisco/blob/main/.github/patreon.md">ser um apoiador</a> e receba brindes exclusivos!
+<p align="center">Did you like the project? Please, considerate <a href="https://github.com/hebertcisco/hebertcisco/blob/main/.github/patreon.md">being a supporter</a> and receive exclusive gifts!
  </p>
- 
-> All Your Base Are Belong To Us
 
-### 🏠 [Homepage](https://www.npmjs.com/package/mathbases)
-
-### ✨ [Demo](https://konvertilo.vercel.app)
 
 ## Install
 
