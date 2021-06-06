@@ -5,7 +5,6 @@ import last from '../helpers/last';
 import find from '../helpers/find';
 
 import constants from '../constants';
-import { describe, expect, it } from '@jest/globals';
 
 const isQuickMethod = (s: string) => s !== 'allYour';
 const METHOD = constants.BASE_MAP_INDEX_NAME;
