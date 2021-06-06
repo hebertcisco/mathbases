@@ -6,7 +6,10 @@
 </p>
 
   <p align="center">
-    <a href="https://github.com/hebertcisco/mathbases/issues">
+    <a href="https://github.com/hebertcisco/mathbases/actions/workflows/node.js.yml">
+      <img alt="Node.js CI" src="https://github.com/hebertcisco/mathbases/actions/workflows/node.js.yml/badge.svg?branch=master" />
+    </a>
+  <a href="https://github.com/hebertcisco/mathbases/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/hebertcisco/mathbases?style=flat&color=336791" />
     </a>
     <a href="https://github.com/hebertcisco/mathbases/pulls">
