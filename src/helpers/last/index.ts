@@ -1,1 +1,1 @@
-export default (a: number[]) => a[a.length - 1];
+export default (pair: number[]) => pair[pair.length - 1];
